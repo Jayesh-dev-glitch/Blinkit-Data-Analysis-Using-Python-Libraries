@@ -6,6 +6,10 @@ The goal is to clean, analyze, and visualize the dataset to uncover insights abo
 
 ---
 
+# Correlation Heatmap
+![Correlation Heatmap](https://github.com/Jayesh-dev-glitch/Blinkit-Data-Analysis-Using-Python-Libraries/blob/main/Correlation%20Heatmap.png)
+# Screenshot 2
+
 ## ⚙️ Key Features  
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
