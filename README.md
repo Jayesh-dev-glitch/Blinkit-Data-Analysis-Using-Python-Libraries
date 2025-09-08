@@ -12,7 +12,9 @@ The goal is to clean, analyze, and visualize the dataset to uncover insights abo
 ![Counts of Item Types](https://github.com/Jayesh-dev-glitch/Blinkit-Data-Analysis-Using-Python-Libraries/blob/main/Counts%20of%20Item%20Type.png)
 # Distribution of Outlet Establishment Year
 ![Distribution of Outlet Establishment Year](https://github.com/Jayesh-dev-glitch/Blinkit-Data-Analysis-Using-Python-Libraries/blob/main/Distribution%20of%20Outlet%20Establishment%20Year.png)
-#
+# Pairplot (numeric subset)
+![Pair Plot (Numeric Subset)](https://github.com/Jayesh-dev-glitch/Blinkit-Data-Analysis-Using-Python-Libraries/blob/main/Pairplot%20(numeric%20subset).png)
+
 
 ## ⚙️ Key Features  
 - Data cleaning and preprocessing  
